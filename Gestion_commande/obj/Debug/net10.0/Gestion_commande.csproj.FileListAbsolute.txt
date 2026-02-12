@@ -1,0 +1,14 @@
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\bin\Debug\net10.0\Gestion_commande.exe
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\bin\Debug\net10.0\Gestion_commande.deps.json
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\bin\Debug\net10.0\Gestion_commande.runtimeconfig.json
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\bin\Debug\net10.0\Gestion_commande.dll
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\bin\Debug\net10.0\Gestion_commande.pdb
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.AssemblyInfoInputs.cache
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.AssemblyInfo.cs
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.csproj.CoreCompileInputs.cache
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.dll
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\refint\Gestion_commande.dll
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.pdb
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\Gestion_commande.genruntimeconfig.cache
+C:\Users\apoivre\source\repos\Gestion_commande\Gestion_commande\obj\Debug\net10.0\ref\Gestion_commande.dll
